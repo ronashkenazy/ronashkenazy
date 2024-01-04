@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+My name is Ron Ashkenazy!
+I am a University of Toronto Student studying Computer Science and Cognitive Science!
+I'm looking to learn as much as I can about development.
+My main focus of interest is Machine Learning.
+I am a very passionate learner and am excited to collaborate with others, so feel free to reach out by email at ronashkenazy04@gmail.com
 <!--
 **ronashkenazy/ronashkenazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
